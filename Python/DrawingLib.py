@@ -8,6 +8,9 @@ Class SpecialEvent: Functions with Special Option
 class BTNCLKEvent:
     def init(self):
         asf = 1
+    def ApplyInfo(self, ):
+        asdf = 1
+
     def DrawCurve(self):
         asdf = 1
     def mkNewFig(self):
